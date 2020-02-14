@@ -1,6 +1,6 @@
 var Blob;
 var blobs = [];
-var numblobs = 200;
+var numblobs = 250;
 var zoom;
 var remain;
 
